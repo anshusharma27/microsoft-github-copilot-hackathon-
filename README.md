@@ -3,7 +3,7 @@ Creating a command-line tool that accepts a city's name and returns the current 
 Leveraging OpenWeatherMap API to fetch weather data and parsing it using Python. 
 The solution demonstrate how GitHub Copilot helps with API usage, data parsing, and error handling
 
-#Step by Step approach 
+**#Step by Step approach **
   1.Set up a new project on GitHub.
   2.Install GitHub Copilot extension for your code editor.
   3.Choose a weather forecasting API and get an API key.
